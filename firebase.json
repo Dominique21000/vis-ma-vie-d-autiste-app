@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/vis-ma-vie-d-autiste-app/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
